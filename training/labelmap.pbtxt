@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'candy_NG'
+}
+item {
+    id: 2
+    name: 'candy_OK'
+}
+item {
+    id: 3
+    name: 'chewing_NG'
+}
+item {
+    id: 4
+    name: 'chewing_OK'
+}
+item {
+    id: 5
+    name: 'noodles_OK'
+}
+item {
+    id: 6
+    name: 'noodles_NG'
+}
